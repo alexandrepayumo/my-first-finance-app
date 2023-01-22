@@ -1,5 +1,5 @@
 // this is the user input page
-import Link from 'next/Link'
+import Link from 'next/link'
 import styles from '../styles/inputpage.module.css'
 
 
